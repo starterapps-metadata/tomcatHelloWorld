@@ -1,0 +1,64 @@
+{
+	"name": "Tomcat",
+	"services": [],
+	"defaultMemory": 256,
+	"description": "Develop, deploy, and scale Tomcat web apps with ease.",
+	"type": "web",
+	"version": "1.0",
+	"smallIcon": "i-runtime-tomcat_24px.png",
+	"icon": "i-runtime-tomcat_32px.png",
+	"largeIcon": "i-runtime-tomcat_50px.png",
+	"featuredIcon": "i-runtime-tomcat_64px.png",
+	"executableFile": "target/TomcatHelloWorldApp.war",
+	"system_tags": ["community"],
+	"buildpack": "java_buildpack",
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6621-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": "https://github.com/IBM-Bluemix/java-helloworld.git",
+		"appPath": ""
+	},
+	"docURL": "/#runtimes/tomcat/index.html",
+	"extra": {
+		"i18n": {
+			"de" : {
+				"name" : "Tomcat",
+				"description" : "Tomcat-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
+			},
+			"es" : {
+				"name" : "Tomcat",
+				"description" : "Desarrolle, despliegue y escale fácilmente apps web Tomcat. "
+			},
+			"fr" : {
+				"name" : "Tomcat",
+				"description" : "Développez, déployez et mettez à l'échelle des applications Tomcat facilement."
+			},
+			"it" : {
+				"name" : "Tomcat",
+				"description" : "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web Tomcat."
+			},
+			"ja" : {
+				"name" : "Tomcat",
+				"description" : "Tomcat Web アプリの開発、デプロイ、および拡張を容易に行います。"
+			},
+			"ko": {
+				"name": "Tomcat",
+				"description" : "Tomcat 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
+			},
+			"pt-BR" : {
+				"name" : "Tomcat",
+				"description" : "Desenvolva, implemente e escale apps da web Tomcat com facilidade."
+			},
+			"zh-Hans" : {
+				"name" : "Tomcat",
+				"description" : "轻松开发、部署和扩展 Tomcat Web 应用程序。"
+			},
+			"zh-Hant" : {
+				"name" : "Tomcat",
+				"description" : "輕鬆地開發、部署及擴充 Tomcat Web 應用程式。"
+			}
+	}
+}
