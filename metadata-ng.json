@@ -18,7 +18,7 @@
 	},
 	"source": {
 		"scmType": "git",
-		"url": ".git",
+		"url": "https://github.com/starterapps-metadata/tomcatHelloWorld.git",
 		"appPath": "app"
 	},
 	"docURL": "/#runtimes/tomcat/index.html",
