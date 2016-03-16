@@ -60,5 +60,6 @@
 				"name" : "Tomcat",
 				"description" : "輕鬆地開發、部署及擴充 Tomcat Web 應用程式。"
 			}
+		}
 	}
 }
