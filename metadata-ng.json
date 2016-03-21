@@ -14,7 +14,7 @@
 	"buildpack": "java_buildpack",
 	"categories": ["runtime"],
 	"metadata": {
-		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6621-01"
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
 	},
 	"source": {
 		"scmType": "git",
