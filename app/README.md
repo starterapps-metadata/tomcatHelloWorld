@@ -12,7 +12,7 @@ This project contains a simple servlet application.
 + Run `mvn clean install` to build the `target/TomcatHelloWorldApp.war` file
 + Copy `target/TomcatHelloWorldApp.war` to your Tomcat's `webapps` folder
 + Start Tomcat by running its `bin/startup.sh` script
-+ Access the running app in a browser at http://localhost:8080/TomcatHelloWorldApp/
++ Access the running app in a browser at [http://localhost:8080/TomcatHelloWorldApp/]()
  
 [Install Apache Maven]: http://maven.apache.org/
 [Install Apache Tomcat]: http://tomcat.apache.org/
