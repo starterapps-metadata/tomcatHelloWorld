@@ -4,3 +4,4 @@ applications:
   random-route: true
   memory: 256M
   path: target/TomcatHelloWorldApp.war
+  buildpack: java_buildpack
