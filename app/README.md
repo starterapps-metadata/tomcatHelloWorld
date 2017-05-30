@@ -2,8 +2,6 @@
 
 This project contains a simple servlet application.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/java-tomcat-helloworld)
-
 ## Run the app locally
 
 1. [Install Apache Maven][]
