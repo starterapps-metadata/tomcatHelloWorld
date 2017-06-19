@@ -4,7 +4,7 @@
 	"defaultMemory": 256,
 	"description": "Develop, deploy, and scale Tomcat web apps with ease.",
 	"type": "web",
-	"version": "3.6",
+	"version": "3.13",
 	"smallIcon": "i-runtime-tomcat_24.png",
 	"icon": "i-runtime-tomcat_32.png",
 	"largeIcon": "i-runtime-tomcat_50.png",
