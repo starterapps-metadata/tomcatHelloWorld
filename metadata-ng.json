@@ -1,7 +1,7 @@
 {
 	"name": "Tomcat",
 	"services": [],
-	"defaultMemory": 512,
+	"defaultMemory": 1024,
 	"description": "Develop, deploy, and scale Tomcat web apps with ease.",
 	"type": "web",
 	"version": "3.13",
